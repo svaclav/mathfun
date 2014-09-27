@@ -1,5 +1,5 @@
 -- computes Sylvester's sequence - https://en.wikipedia.org/wiki/Sylvester%27s_sequence
--- written in Haskell - ghc sylvester.hs && ./sylvester
+-- written in Haskell - runhaskell sylvester.hs
 
 module Main where
 main = do 
