@@ -1,3 +1,6 @@
+-- computes Sylvester's sequence - https://en.wikipedia.org/wiki/Sylvester%27s_sequence
+-- written in Haskell - ghc sylvester.hs && ./sylvester
+
 module Main where
 main = do 
     putStrLn "Let's computer Sylvester's sequence:"
