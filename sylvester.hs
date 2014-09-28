@@ -3,7 +3,7 @@
 
 module Main where
 main = do 
-    putStrLn "Let's computer Sylvester's sequence:"
+    putStrLn "Let's compute Sylvester's sequence:"
     number <- getLine
     putStrLn ("Sylvester's seqeuence is " ++ show (sylvester (read number))  ++ ".")
 
